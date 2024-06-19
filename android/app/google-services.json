@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "719195955688",
+    "firebase_url": "https://apptaxi-da652-default-rtdb.firebaseio.com",
+    "project_id": "apptaxi-da652",
+    "storage_bucket": "apptaxi-da652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719195955688:android:39c3d652e6e8d16b35045d",
+        "android_client_info": {
+          "package_name": "com.bookingcar.drives_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXDIPuVtlIwaIQ_7dnI27FUsvR_TrTGUA"
+        },
+        {
+          "current_key": "AIzaSyB6tkYfAlSkiOxZNHg6Ui7Spopt3qJGOU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719195955688:android:b4bdb1f2ebf52bd635045d",
+        "android_client_info": {
+          "package_name": "com.bookingcar.users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXDIPuVtlIwaIQ_7dnI27FUsvR_TrTGUA"
+        },
+        {
+          "current_key": "AIzaSyB6tkYfAlSkiOxZNHg6Ui7Spopt3qJGOU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719195955688:android:e8b688f89ed6977135045d",
+        "android_client_info": {
+          "package_name": "com.example.drivers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXDIPuVtlIwaIQ_7dnI27FUsvR_TrTGUA"
+        },
+        {
+          "current_key": "AIzaSyB6tkYfAlSkiOxZNHg6Ui7Spopt3qJGOU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719195955688:android:f1ee7f011061710035045d",
+        "android_client_info": {
+          "package_name": "com.example.users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXDIPuVtlIwaIQ_7dnI27FUsvR_TrTGUA"
+        },
+        {
+          "current_key": "AIzaSyB6tkYfAlSkiOxZNHg6Ui7Spopt3qJGOU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
